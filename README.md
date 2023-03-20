@@ -8,4 +8,6 @@
 
 #### • [4장 \_ 변수](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/04_Variable)
 
-#### • [5장 \_ 표현식](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/05_Expression_Statement)
+#### • [5장 \_ 표현식과 문](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/05_ExpressionStatement)
+
+#### • [6장 \_ 데이터 타입](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/06_DataType)
