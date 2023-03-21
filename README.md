@@ -11,3 +11,5 @@
 #### • [5장 \_ 표현식과 문](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/05_ExpressionStatement)
 
 #### • [6장 \_ 데이터 타입](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/06_DataType)
+
+#### • [7장 \_ 연산자](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/07_Operator)
