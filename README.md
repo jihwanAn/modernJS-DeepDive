@@ -15,3 +15,7 @@
 #### • [7장 \_ 연산자](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/07_Operator)
 
 #### • [8장 \_ 제어문](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/08_ControlFlowStatements)
+
+#### • [9장 \_ 타입 변환과 단축 평가](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/09_TypeConversion)
+
+#### • [10장 \_ 객체 리터럴](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/10_Object)
