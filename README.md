@@ -19,3 +19,5 @@
 #### • [9장 \_ 타입 변환과 단축 평가](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/09_TypeConversion)
 
 #### • [10장 \_ 객체 리터럴](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/10_Object)
+
+#### • [11장 \_ 원시 값과 객체의 비교](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/11_PrimitiveType&Object)
