@@ -21,3 +21,5 @@
 #### • [10장 \_ 객체 리터럴](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/10_Object)
 
 #### • [11장 \_ 원시 값과 객체의 비교](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/11_PrimitiveType&Object)
+
+#### • [12장 \_ 함수](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/12_Function)
