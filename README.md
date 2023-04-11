@@ -23,3 +23,5 @@
 #### • [11장 \_ 원시 값과 객체의 비교](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/11_PrimitiveType&Object)
 
 #### • [12장 \_ 함수](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/12_Function)
+
+#### • [13장 \_ 스코프](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/13_Scope)
