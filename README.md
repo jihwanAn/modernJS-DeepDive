@@ -25,3 +25,5 @@
 #### • [12장 \_ 함수](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/12_Function)
 
 #### • [13장 \_ 스코프](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/13_Scope)
+
+#### • [14장 \_ 전역 변수의 문제점](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/14_GlobalValue)
