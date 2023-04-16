@@ -29,3 +29,5 @@
 #### • [14장 \_ 전역 변수의 문제점](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/14_GlobalValue)
 
 #### • [15장 \_ let, const 키워드와 블록 레벨 스코프](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/15_const&let)
+
+#### • [16장 \_ 프로퍼티 어트리뷰트](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/16_PropertyAttribute)
