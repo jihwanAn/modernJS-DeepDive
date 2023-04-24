@@ -31,3 +31,5 @@
 #### • [15장 \_ let, const 키워드와 블록 레벨 스코프](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/15_const&let)
 
 #### • [16장 \_ 프로퍼티 어트리뷰트](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/16_PropertyAttribute)
+
+#### • [17장 \_ 생성자 함수에 의한 객체 생성](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/17_ConstructorFunction)
