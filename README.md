@@ -1,6 +1,8 @@
 # 자바스크립트 Deep Dive 정리 📖
 
-#### • [18장_함수와 일급 객체 이후 Notion 정리](https://www.notion.so/Deep-Dive-a74ccc56a5644f4eac2533ae763ae993?pvs=4)
+#### 💡 18_함수와 일급 객체 이후의 내용은 Notion에서
+
+#### • [▷DeepDive Notion](https://awake-lord-700.notion.site/Deep-Dive-a74ccc56a5644f4eac2533ae763ae993?pvs=4)
 
 #### • [1장 \_ 프로그래밍](https://github.com/jihwanAn/modernJs-DeepDive/tree/main/01_Programming)
 
